@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadTracker", "MeadTracker\MeadTracker.csproj", "{5DA161D2-5C6F-487A-A211-BB641DBD20FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadTracker.Android", "MeadTracker.Android\MeadTracker.Android.csproj", "{0F22889B-FC8F-4EC7-BA57-02B96026D41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadTracker.Browser", "MeadTracker.Browser\MeadTracker.Browser.csproj", "{31D20688-56E5-44E9-8508-3838ED45D1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadTracker.Desktop", "MeadTracker.Desktop\MeadTracker.Desktop.csproj", "{7BC17A2B-5018-4B42-8883-63C6D1899531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA161D2-5C6F-487A-A211-BB641DBD20FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA161D2-5C6F-487A-A211-BB641DBD20FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA161D2-5C6F-487A-A211-BB641DBD20FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA161D2-5C6F-487A-A211-BB641DBD20FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F22889B-FC8F-4EC7-BA57-02B96026D41E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31D20688-56E5-44E9-8508-3838ED45D1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D20688-56E5-44E9-8508-3838ED45D1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D20688-56E5-44E9-8508-3838ED45D1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D20688-56E5-44E9-8508-3838ED45D1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC17A2B-5018-4B42-8883-63C6D1899531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC17A2B-5018-4B42-8883-63C6D1899531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC17A2B-5018-4B42-8883-63C6D1899531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC17A2B-5018-4B42-8883-63C6D1899531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
