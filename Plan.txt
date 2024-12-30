@@ -1,0 +1,37 @@
+Feature List:
+	Active Fermentation Tracking
+		Staggered Nutrient Planner
+		3, 6, 9, 12, and custom racking month reminder
+		Specific Gravity Tracker
+		Original Gravity Record
+		Final Gravity
+		Temputure Tracking
+		pH Tracking
+		Notes
+		Is It Mold AI (maybe?)
+	Mead Log
+		View Completed Fermation Data
+		View Recipe
+			Mead Style
+		Final ABV
+		Outcome/Rating
+		Notes
+	Planned Brews
+		View Past Brews (for when you are redoing a brew)
+		SG Calculator (like on GotMead? website how their calculator has all those different surgar sources)
+		Nutrient Calculator
+		ABV Estimator
+		Batch Size Calculator
+		Estimated Start/End Dates
+	Recipes
+		View Related Mead Logs
+		Create/Edit Recipe
+		Import/Export Recipes
+		Recipe Share (Maybe)
+		Recipe Categorization and Sort
+
+
+	Additional Optional Features
+		Unit Preferences
+		Cloud Sync/Backup
+		Mead Guide

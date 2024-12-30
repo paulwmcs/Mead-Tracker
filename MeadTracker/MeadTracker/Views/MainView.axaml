@@ -19,10 +19,10 @@
 		</Border>
 		<Grid ShowGridLines="True" Margin="50 5" ColumnDefinitions="120, 100" RowDefinitions="Auto, Auto, Auto">
 			<Label Grid.Row="0" Grid.Column="0" Margin="10">Celsius</Label>
-			<TextBox Grid.Row="0" Grid.Column="1" Margin="0 5"/>
+			<TextBox Name="celsius" Grid.Row="0" Grid.Column="1" Margin="0 5"/>
 			<Label Grid.Row="1" Grid.Column="0" Margin="10">Fahrenheit</Label>
-			<TextBox Grid.Row="1"  Grid.Column="1" Margin="0 5"/>
-			<Button Grid.Row="3" Grid.Column="1" Margin="10 10">Calculate</Button>
+			<TextBox Name="fahrenheit" Grid.Row="1"  Grid.Column="1" Margin="0 5"/>
+			<Button Grid.Row="3" Grid.Column="1" Margin="10 10" ClickMode="Release" Click="CalculateTemputureClicked">Calculate</Button>
 		</Grid>
 	</StackPanel>
  
